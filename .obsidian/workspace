@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "【日文】N2句型「～ば～ほど」.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "【日文】N2句型「～ば～ほど」.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -83,15 +78,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "日本語/【日文】N2句型「～ば～ほど」.md",
-    "日本語/とらえる.md",
+    "懐が寂しい.md",
+    "～から（理由）.md",
+    "つか・む【×摑む／×攫む】.md",
+    "離すまい.md",
     "しっかり.md",
-    "日本語/つか・む【×摑む／×攫む】.md",
-    "日本語/離すまい.md",
-    "日本語/離す.md",
-    "[[とらえる]].md",
-    "とらえて.md",
+    "離す.md",
+    "【日文】N2句型「～ば～ほど」.md",
+    "懐がさびしい.md",
     "Untitled.md",
-    "離す.md"
+    "日本語/【日文】N2句型「～ば～ほど」.md"
   ]
 }
