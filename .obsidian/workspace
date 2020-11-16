@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "【日文】N2句型「～ば～ほど」.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -68,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "【日文】N2句型「～ば～ほど」.md"
+              }
             }
           }
         ]
@@ -79,9 +84,9 @@
   },
   "lastOpenFiles": [
     "日本語/【日文】N2句型「～ば～ほど」.md",
+    "日本語/とらえる.md",
     "しっかり.md",
     "日本語/つか・む【×摑む／×攫む】.md",
-    "日本語/とらえる.md",
     "日本語/離すまい.md",
     "日本語/離す.md",
     "[[とらえる]].md",
