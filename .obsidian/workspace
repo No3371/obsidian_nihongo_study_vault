@@ -4,13 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "02346694d14efd02",
+        "id": "1fd7f11204f03523",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "graph",
           "state": {}
-        }
+        },
+        "group": "5fe2ec75eea6c1e7"
+      },
+      {
+        "id": "7e2dabb8f7674fd6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "必ず.md",
+            "mode": "preview"
+          }
+        },
+        "group": "5fe2ec75eea6c1e7"
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -83,18 +97,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "しかける（仕掛ける）.md",
-    "しはじめる.md",
-    "煮炊き（にたき）.md",
-    "終えた vs 終わった.md",
-    "手を出す.md",
-    "硬く（かたく）.md",
-    "食いつく（くいつく）.md",
-    "煮炊き.md",
-    "かみつく（噛み付く）.md",
-    "きっかけ（切っ掛け）.md"
+    "必ず.md",
+    "Untitled.md",
+    "N4文法11「ば」表假定條件.md",
+    "きっと（屹度／急度）.md",
+    "【Ｎ３文法】～というもの／～なるもの.md",
+    "N5文法43【表現篇】「だけ」和「しか～ない」.md",
+    "～から（理由）.md",
+    "助かり.md",
+    "「と・ば・たら・なら」的差別.md",
+    "「すいません」vs「すみません」.md"
   ]
 }
