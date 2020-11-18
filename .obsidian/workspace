@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "～てもらうvs～てくれる.md",
+            "mode": "source"
+          }
         },
         "group": "5fe2ec75eea6c1e7"
       },
@@ -19,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "必ず.md",
+            "file": "～てもらうvs～てくれる.md",
             "mode": "preview"
           }
         },
@@ -74,23 +77,35 @@
     "type": "split",
     "children": [
       {
+        "id": "755552ed83967de6",
+        "type": "tabs",
+        "dimension": 49.56437560503388,
+        "children": [
+          {
+            "id": "c7941aff5c3935b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "～てもらうvs～てくれる.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "79a91b25b224c3d8",
         "type": "tabs",
+        "dimension": 50.43562439496612,
         "children": [
           {
             "id": "9f8040efca2cd4ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
-            }
-          },
-          {
-            "id": "c7941aff5c3935b6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
+              "state": {
+                "file": "～てもらうvs～てくれる.md"
+              }
             }
           }
         ]
@@ -101,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "～てもらうvs～てくれる.md",
+    "とらえる.md",
+    "しっかり.md",
+    "煮炊き（にたき）.md",
     "必ず.md",
+    "Assets/無愛想.png",
+    "N4文法28「授受動詞」あげる、くれる、もらう.md",
     "Untitled.md",
     "N4文法11「ば」表假定條件.md",
-    "きっと（屹度／急度）.md",
-    "【Ｎ３文法】～というもの／～なるもの.md",
-    "N5文法43【表現篇】「だけ」和「しか～ない」.md",
-    "～から（理由）.md",
-    "助かり.md",
-    "「と・ば・たら・なら」的差別.md",
-    "「すいません」vs「すみません」.md"
+    "きっと（屹度／急度）.md"
   ]
 }
