@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "～てもらうvs～てくれる.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "5fe2ec75eea6c1e7"
       },
@@ -22,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "～てもらうvs～てくれる.md",
+            "file": "さわがしい（騒がしい）.md",
             "mode": "preview"
           }
         },
@@ -86,9 +83,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "～てもらうvs～てくれる.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -103,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "～てもらうvs～てくれる.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -116,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "ように的5大用法！.md",
+    "【日本語小教室】敷衍.md",
+    "価格 vs 値段 vs コスト.md",
+    "追わず（おわず）.md",
+    "V + くなる.md",
     "～てもらうvs～てくれる.md",
     "とらえる.md",
     "しっかり.md",
-    "煮炊き（にたき）.md",
-    "必ず.md",
-    "Assets/無愛想.png",
-    "N4文法28「授受動詞」あげる、くれる、もらう.md",
-    "Untitled.md",
-    "N4文法11「ば」表假定條件.md",
-    "きっと（屹度／急度）.md"
+    "煮炊き（にたき）.md"
   ]
 }
