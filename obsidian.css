@@ -87,8 +87,12 @@ body.theme-light {
   font-weight: 700;
 }
 
-h1, h2, h3, h4, h5, h6, strong, .cm-s-obsidian .cm-header {
+h1, h2, h3, .cm-s-obsidian .cm-header {
   font-weight: 600;
+}
+
+h4, h5, h6, strong, .cm-s-obsidian .cm-header {
+  font-weight: 1000;
 }
 
 /* headings */
@@ -102,21 +106,31 @@ h1, h2, h3, h4, h5, h6, strong, .cm-s-obsidian .cm-header {
   margin-top: 23px;
   margin-bottom: 1px;
 }
-.markdown-preview-view h3,
-.markdown-preview-view h4,
-.markdown-preview-view h5,
-.markdown-preview-view h6{
+.markdown-preview-view h3{
     font-size: 20px;
     margin-top: 16px;
     margin-bottom: 0px;
 }
 
+.markdown-preview-view h4{
+    font-size: 16px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
+.markdown-preview-view h5,
+.markdown-preview-view h6{
+    font-size: 14px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+}
+
 .cm-s-obsidian .cm-header-1 { font-size: 30px; }
 .cm-s-obsidian .cm-header-2 { font-size: 24px; }
-.cm-s-obsidian .cm-header-3,
-.cm-s-obsidian .cm-header-4,
+.cm-s-obsidian .cm-header-3 { font-size: 20px; }
+.cm-s-obsidian .cm-header-4 { font-size: 18px; }
 .cm-s-obsidian .cm-header-5,
-.cm-s-obsidian .cm-header-6{ font-size: 20px; }
+.cm-s-obsidian .cm-header-6 { font-size: 16px; }
 .cm-s-obsidian .cm-header-6 { color: var(--text-muted); }
 
 /* links */
@@ -264,9 +278,9 @@ h1, h2, h3, h4, h5, h6, strong, .cm-s-obsidian .cm-header {
 /* for some reason messing with the padding and size like this caused weirdness
   with the editor mode cursor position. So just preview for now */
 .markdown-preview-view blockquote {
-  padding: 0 0.9em;
+  padding: 0.5em 0.5em 1em 1em;
   font-size: 1.2em;
-  margin: 3px 2px;
+  margin: 3px 2px 4px;
 }
 
 /* code */

@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "日本語初級課程第1課.md",
+            "mode": "source"
+          }
         },
         "group": "5fe2ec75eea6c1e7"
       },
@@ -19,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ばかり.md",
-            "mode": "preview"
+            "file": "日本語初級課程第1課.md",
+            "mode": "source"
           }
         },
         "group": "5fe2ec75eea6c1e7"
@@ -50,7 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "遅れる",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -82,6 +90,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "日本語初級課程第1課.md"
+              }
+            }
+          },
+          {
+            "id": "9e9703eea175166a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
               "state": {}
             }
           }
@@ -97,7 +115,14 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "日本語初級課程第1課.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -108,15 +133,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "進階單元6  「ばかり」の使い方.md",
-    "N4文法29「て形+授受動詞」てあげる、てくれる、てもらう.md",
-    "N3文法49「てくれ」強烈命令.md",
-    "N4文法29「て形+授受動詞」てあげる、てくれる、てもらう-時雨の町-日文學習園地.md",
-    "N3文法49「てくれ」強烈命令-時雨の町-日文學習園地.md",
-    "N4文法28「授受動詞」あげる、くれる、もらう.md",
+    "日本語初級課程第1課.md",
+    "日本語初級課程第10課.md",
+    "日本語初級課程第9課.md",
+    "日本語初級課程第7課.md",
+    "日本語初級課程第8課.md",
+    "日本語初級課程第2課.md",
+    "日本語初級課程第6課.md",
     "Untitled.md",
-    "さすが？さすがに？.md",
-    "N4文法17「てくる」補助動詞-時雨の町-日文學習園地.md",
-    "「~たほうがいい」和「~ほうがいい」的差別-時雨の町-日文學習園地.md"
+    "こみいる（込み入る）.md",
+    "【Ｎ３文法】～として／としての／としても／としては.md"
   ]
 }
