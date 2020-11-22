@@ -8,25 +8,22 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "日本語初級課程第1課.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
-        "group": "5fe2ec75eea6c1e7"
+        "group": "b472840f79bbe36c"
       },
       {
-        "id": "7e2dabb8f7674fd6",
+        "id": "7c23cda9a83895a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "日本語初級課程第1課.md",
-            "mode": "source"
+            "file": "かたり（語り）.md",
+            "mode": "preview"
           }
         },
-        "group": "5fe2ec75eea6c1e7"
+        "group": "b472840f79bbe36c"
       }
     ],
     "direction": "vertical"
@@ -53,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "遅れる",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "日本語初級課程第1課.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日本語初級課程第1課.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +127,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "「気にする」vs「気になる」.md",
+    "かんむりょう（感無量）.md",
     "日本語初級課程第1課.md",
     "日本語初級課程第10課.md",
     "日本語初級課程第9課.md",
     "日本語初級課程第7課.md",
     "日本語初級課程第8課.md",
     "日本語初級課程第2課.md",
-    "日本語初級課程第6課.md",
-    "Untitled.md",
-    "こみいる（込み入る）.md",
-    "【Ｎ３文法】～として／としての／としても／としては.md"
+    "日本語初級課程第6課.md"
   ]
 }
