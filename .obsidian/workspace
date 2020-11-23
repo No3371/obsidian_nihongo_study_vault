@@ -4,26 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd7f11204f03523",
+        "id": "5e4e6ab915c6b911",
         "type": "leaf",
+        "dimension": 42.42074927953891,
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "間（ま）.md",
+            "mode": "source"
+          }
         },
-        "group": "b472840f79bbe36c"
+        "group": "982fa5b19dd4afad"
       },
       {
         "id": "7c23cda9a83895a9",
         "type": "leaf",
+        "dimension": 57.579250720461104,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "かたり（語り）.md",
+            "file": "間（ま）.md",
             "mode": "preview"
           }
         },
-        "group": "b472840f79bbe36c"
+        "group": "982fa5b19dd4afad"
       }
     ],
     "direction": "vertical"
@@ -33,8 +38,24 @@
     "type": "split",
     "children": [
       {
+        "id": "d4af3181aed9f9c7",
+        "type": "tabs",
+        "dimension": 57.502420135527586,
+        "children": [
+          {
+            "id": "1fd7f11204f03523",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "5e92ba0f58b6489e",
         "type": "tabs",
+        "dimension": 42.497579864472414,
         "children": [
           {
             "id": "d2b6a0865d59b165",
@@ -50,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "組",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,11 +88,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 332
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -87,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "間（ま）.md"
+              }
             }
           },
           {
@@ -111,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "間（ま）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "間（ま）.md",
+    "さらに（更に）.md",
+    "かたり（語り）.md",
     "Untitled.md",
-    "「気にする」vs「気になる」.md",
-    "かんむりょう（感無量）.md",
-    "日本語初級課程第1課.md",
-    "日本語初級課程第10課.md",
-    "日本語初級課程第9課.md",
-    "日本語初級課程第7課.md",
-    "日本語初級課程第8課.md",
-    "日本語初級課程第2課.md",
-    "日本語初級課程第6課.md"
+    "てつだう（手伝う）.md",
+    "くっ付く.md",
+    "いりくむ（入り組む）.md",
+    "入り組んだ.md",
+    "こむ（込む）.md",
+    "とりつく（取り付く）.md"
   ]
 }
