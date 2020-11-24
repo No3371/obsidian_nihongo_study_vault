@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "かたり（語り）.md",
+            "file": "おつぼねさま（御局様）.md",
             "mode": "preview"
           }
         },
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "N4文法29",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,14 +129,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "N3文法53「てちょうだい」請求.md",
+    "N4文法29「て形+授受動詞」てあげる、てくれる、てもらう.md",
+    "【N3】じゃない、じゃなかった.md",
+    "かつ（且つ）.md",
     "「気にする」vs「気になる」.md",
     "かんむりょう（感無量）.md",
     "日本語初級課程第1課.md",
     "日本語初級課程第10課.md",
-    "日本語初級課程第9課.md",
-    "日本語初級課程第7課.md",
-    "日本語初級課程第8課.md",
-    "日本語初級課程第2課.md",
-    "日本語初級課程第6課.md"
+    "日本語初級課程第9課.md"
   ]
 }
