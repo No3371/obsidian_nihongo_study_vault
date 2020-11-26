@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "だく（抱く）.md",
+            "file": "ひっくりかえす（ひっくり返す）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "だく（抱く）.md",
-            "mode": "source"
+            "file": "ひっくりかえす（ひっくり返す）.md",
+            "mode": "preview"
           }
         },
         "group": "982fa5b19dd4afad"
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "だく（抱く）.md"
+                "file": "ひっくりかえす（ひっくり返す）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "だく（抱く）.md",
+                "file": "ひっくりかえす（ひっくり返す）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +151,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "だく（抱く）.md",
     "いだく（抱く）.md",
-    "Untitled.md",
     "Assets/N5文法08「形容詞中止形」~て~/Pasted image 20201126161754.png",
     "匂いvs臭いvs香り.md",
     "つめる（詰める）.md",
