@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "間（ま）.md",
+            "file": "なくなる（無くなる）.md",
             "mode": "source"
           }
         },
@@ -20,11 +20,11 @@
       {
         "id": "7c23cda9a83895a9",
         "type": "leaf",
-        "dimension": 57.579250720461104,
+        "dimension": 57.5792507204611,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "間（ま）.md",
+            "file": "なくなる（無くなる）.md",
             "mode": "preview"
           }
         },
@@ -40,7 +40,7 @@
       {
         "id": "d4af3181aed9f9c7",
         "type": "tabs",
-        "dimension": 57.502420135527586,
+        "dimension": 57.50242013552759,
         "children": [
           {
             "id": "1fd7f11204f03523",
@@ -55,7 +55,7 @@
       {
         "id": "5e92ba0f58b6489e",
         "type": "tabs",
-        "dimension": 42.497579864472414,
+        "dimension": 42.49757986447241,
         "children": [
           {
             "id": "d2b6a0865d59b165",
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "組",
+                "query": "つめる",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 721
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "間（ま）.md"
+                "file": "なくなる（無くなる）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "間（ま）.md",
+                "file": "なくなる（無くなる）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "間（ま）.md",
-    "さらに（更に）.md",
-    "かたり（語り）.md",
+    "なくなる（無くなる）.md",
+    "しゃがむ.md",
+    "つめる（詰める）.md",
+    "こめる（込める）.md",
     "Untitled.md",
-    "てつだう（手伝う）.md",
-    "くっ付く.md",
-    "いりくむ（入り組む）.md",
-    "入り組んだ.md",
+    "しめる（締める／閉める）.md",
     "こむ（込む）.md",
-    "とりつく（取り付く）.md"
+    "いりくむ（入り組む）.md",
+    "こみいる（込み入る）.md",
+    "しくみ（仕組み）.md"
   ]
 }
