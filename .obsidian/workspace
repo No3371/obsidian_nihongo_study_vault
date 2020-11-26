@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なくなる（無くなる）.md",
+            "file": "だく（抱く）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なくなる（無くなる）.md",
-            "mode": "preview"
+            "file": "だく（抱く）.md",
+            "mode": "source"
           }
         },
         "group": "982fa5b19dd4afad"
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "なくなる（無くなる）.md"
+                "file": "だく（抱く）.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "なくなる（無くなる）.md",
+                "file": "だく（抱く）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "だく（抱く）.md",
+    "いだく（抱く）.md",
+    "Untitled.md",
+    "Assets/N5文法08「形容詞中止形」~て~/Pasted image 20201126161754.png",
+    "匂いvs臭いvs香り.md",
+    "つめる（詰める）.md",
+    "ひとくぎり（一区切り）.md",
     "なくなる（無くなる）.md",
     "しゃがむ.md",
-    "つめる（詰める）.md",
-    "こめる（込める）.md",
-    "Untitled.md",
-    "しめる（締める／閉める）.md",
-    "こむ（込む）.md",
-    "いりくむ（入り組む）.md",
-    "こみいる（込み入る）.md",
-    "しくみ（仕組み）.md"
+    "こめる（込める）.md"
   ]
 }
