@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ひっくりかえす（ひっくり返す）.md",
+            "file": "「抜く」vs「抜ける」.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ひっくりかえす（ひっくり返す）.md",
+            "file": "「抜く」vs「抜ける」.md",
             "mode": "preview"
           }
         },
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "つめる",
+                "query": "気がつく",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 721
+    "width": 677
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ひっくりかえす（ひっくり返す）.md"
+                "file": "「抜く」vs「抜ける」.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ひっくりかえす（ひっくり返す）.md",
+                "file": "「抜く」vs「抜ける」.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "だく（抱く）.md",
-    "いだく（抱く）.md",
-    "Assets/N5文法08「形容詞中止形」~て~/Pasted image 20201126161754.png",
-    "匂いvs臭いvs香り.md",
-    "つめる（詰める）.md",
-    "ひとくぎり（一区切り）.md",
-    "なくなる（無くなる）.md",
-    "しゃがむ.md",
-    "こめる（込める）.md"
+    "「抜く」vs「抜ける」.md",
+    "ぬける（抜ける）.md",
+    "ぬく（抜く）.md",
+    "Untitled 1.md",
+    "ぬけめ（抜け目）.md",
+    "きがつく（気が付く）.md",
+    "めさき（目先）.md",
+    "こりこう（小利口）.md",
+    "抜け目がない.md",
+    "みこみ（見込み）.md"
   ]
 }
