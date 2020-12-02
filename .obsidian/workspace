@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "「抜く」vs「抜ける」.md",
+            "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "「抜く」vs「抜ける」.md",
+            "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
             "mode": "preview"
           }
         },
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "気がつく",
+                "query": "だけ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "「抜く」vs「抜ける」.md"
+                "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "「抜く」vs「抜ける」.md",
+                "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "N5文法43【表現篇】「だけ」和「しか～ない」.md",
+    "「だけ」「しか」.md",
+    "かける（掛ける）.md",
+    "しか.md",
+    "Untitled 1.md",
     "「抜く」vs「抜ける」.md",
     "ぬける（抜ける）.md",
     "ぬく（抜く）.md",
-    "Untitled 1.md",
     "ぬけめ（抜け目）.md",
-    "きがつく（気が付く）.md",
-    "めさき（目先）.md",
-    "こりこう（小利口）.md",
-    "抜け目がない.md",
-    "みこみ（見込み）.md"
+    "きがつく（気が付く）.md"
   ]
 }
