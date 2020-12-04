@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
+            "file": "ききつける（聞き付ける）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
+            "file": "ききつける（聞き付ける）.md",
             "mode": "preview"
           }
         },
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md"
+                "file": "ききつける（聞き付ける）.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N5文法43【表現篇】「だけ」和「しか～ない」.md",
+                "file": "ききつける（聞き付ける）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "あわす（合わす）.md",
     "N5文法43【表現篇】「だけ」和「しか～ない」.md",
     "「だけ」「しか」.md",
     "かける（掛ける）.md",
     "しか.md",
-    "Untitled 1.md",
     "「抜く」vs「抜ける」.md",
     "ぬける（抜ける）.md",
     "ぬく（抜く）.md",
-    "ぬけめ（抜け目）.md",
-    "きがつく（気が付く）.md"
+    "ぬけめ（抜け目）.md"
   ]
 }
