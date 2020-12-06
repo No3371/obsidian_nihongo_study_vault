@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ききつける（聞き付ける）.md",
+            "file": "さかいめ（境目）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ききつける（聞き付ける）.md",
+            "file": "さかいめ（境目）.md",
             "mode": "preview"
           }
         },
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "掛け",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677
+    "width": 553
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ききつける（聞き付ける）.md"
+                "file": "さかいめ（境目）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ききつける（聞き付ける）.md",
+                "file": "さかいめ（境目）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +153,14 @@
   },
   "lastOpenFiles": [
     "Untitled 1.md",
-    "あわす（合わす）.md",
-    "N5文法43【表現篇】「だけ」和「しか～ない」.md",
-    "「だけ」「しか」.md",
-    "かける（掛ける）.md",
-    "しか.md",
-    "「抜く」vs「抜ける」.md",
-    "ぬける（抜ける）.md",
-    "ぬく（抜く）.md",
-    "ぬけめ（抜け目）.md"
+    "あさい（浅い）.md",
+    "いったく（一択）.md",
+    "こらえる（堪える）.md",
+    "Untitled 3.md",
+    "としとる（年取る）.md",
+    "Untitled 2.md",
+    "おもいつめる（思い詰める）.md",
+    "なやむ（悩む）.md",
+    "おいつめる（追い詰める）.md"
   ]
 }
