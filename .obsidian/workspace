@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "さかいめ（境目）.md",
+            "file": "ささやか（細やか）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "さかいめ（境目）.md",
+            "file": "ささやか（細やか）.md",
             "mode": "preview"
           }
         },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "さかいめ（境目）.md"
+                "file": "ささやか（細やか）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "さかいめ（境目）.md",
+                "file": "ささやか（細やか）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +153,14 @@
   },
   "lastOpenFiles": [
     "Untitled 1.md",
+    "けが（怪我）.md",
+    "さかいめ（境目）.md",
     "あさい（浅い）.md",
     "いったく（一択）.md",
     "こらえる（堪える）.md",
     "Untitled 3.md",
     "としとる（年取る）.md",
     "Untitled 2.md",
-    "おもいつめる（思い詰める）.md",
-    "なやむ（悩む）.md",
-    "おいつめる（追い詰める）.md"
+    "おもいつめる（思い詰める）.md"
   ]
 }
