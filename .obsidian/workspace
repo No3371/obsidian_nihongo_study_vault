@@ -6,12 +6,12 @@
       {
         "id": "5e4e6ab915c6b911",
         "type": "leaf",
-        "dimension": 44.714459295261236,
+        "dimension": 44.71445929526124,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "アラシ（荒らし）.md",
+            "file": "釘を刺します.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "アラシ（荒らし）.md",
+            "file": "釘を刺します.md",
             "mode": "preview"
           }
         },
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "アラシ（荒らし）.md"
+                "file": "釘を刺します.md"
               }
             }
           },
@@ -119,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "アラシ（荒らし）.md",
+                "file": "釘を刺します.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +155,7 @@
   },
   "lastOpenFiles": [
     "Untitled 1.md",
+    "アラシ（荒らし）.md",
     "ささやか（細やか）.md",
     "けが（怪我）.md",
     "さかいめ（境目）.md",
@@ -160,7 +163,6 @@
     "いったく（一択）.md",
     "こらえる（堪える）.md",
     "Untitled 3.md",
-    "としとる（年取る）.md",
-    "Untitled 2.md"
+    "としとる（年取る）.md"
   ]
 }
