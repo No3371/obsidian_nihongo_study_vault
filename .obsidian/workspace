@@ -6,11 +6,12 @@
       {
         "id": "5e4e6ab915c6b911",
         "type": "leaf",
-        "dimension": 48.421052631578945,
+        "dimension": 48.42105263157894,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "たぶらかす（誑かす）.md",
+            "file": "めぐる（巡る）.md",
             "mode": "source"
           }
         },
@@ -19,13 +20,12 @@
       {
         "id": "7c23cda9a83895a9",
         "type": "leaf",
-        "dimension": 51.578947368421055,
-        "active": true,
+        "dimension": 51.57894736842106,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "たぶらかす（誑かす）.md",
-            "mode": "preview"
+            "file": "めぐる（巡る）.md",
+            "mode": "source"
           }
         },
         "group": "982fa5b19dd4afad"
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "更に",
+                "query": "寝る",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "たぶらかす（誑かす）.md"
+                "file": "めぐる（巡る）.md"
               }
             }
           },
@@ -119,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "たぶらかす（誑かす）.md",
+                "file": "めぐる（巡る）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +151,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "たぶらかす（誑かす）.md",
     "Untitled 1.md",
+    "Assets/Pasted image 20201127120205.png",
+    "Assets/Pasted image 20201206000918.png",
+    "こらえる（堪える）.md",
+    "たぶらかす（誑かす）.md",
     "もともと（元々）.md",
     "もっと.md",
     "さらに（更に）.md",
     "すかすか.md",
-    "釘を刺します.md",
-    "アラシ（荒らし）.md",
-    "ささやか（細やか）.md",
-    "けが（怪我）.md"
+    "釘を刺します.md"
   ]
 }
