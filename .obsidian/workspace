@@ -6,29 +6,29 @@
       {
         "id": "5e4e6ab915c6b911",
         "type": "leaf",
-        "dimension": 48.42105263157894,
+        "dimension": 48.421052631578945,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "めぐる（巡る）.md",
+            "file": "あわせる（合わせる）.md",
             "mode": "source"
           }
         },
-        "group": "982fa5b19dd4afad"
+        "group": "8e08b6291cf29d38"
       },
       {
-        "id": "7c23cda9a83895a9",
+        "id": "88a4b5fbf72f8e33",
         "type": "leaf",
-        "dimension": 51.57894736842106,
+        "dimension": 51.578947368421055,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "めぐる（巡る）.md",
+            "file": "あわせる（合わせる）.md",
             "mode": "source"
           }
         },
-        "group": "982fa5b19dd4afad"
+        "group": "8e08b6291cf29d38"
       }
     ],
     "direction": "vertical"
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "めぐる（巡る）.md"
+                "file": "あわせる（合わせる）.md"
               }
             }
           },
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -134,12 +136,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "めぐる（巡る）.md",
+                "file": "あわせる（合わせる）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -151,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Assets/Pasted image 20201127120205.png",
+    "あわせる（合わせる）.md",
+    "各種「時間」相關的日文說法.md",
     "Assets/Pasted image 20201206000918.png",
-    "こらえる（堪える）.md",
-    "たぶらかす（誑かす）.md",
-    "もともと（元々）.md",
-    "もっと.md",
-    "さらに（更に）.md",
-    "すかすか.md",
-    "釘を刺します.md"
+    "Assets/Pasted image 20201127120205.png",
+    "一日時間.md",
+    "ことわる（断る）.md",
+    "さっぱり.md",
+    "Untitled 1.md",
+    "やりそこなう（遣り損なう）.md",
+    "あやまる（誤る）.md"
   ]
 }
