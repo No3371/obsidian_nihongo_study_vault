@@ -6,12 +6,12 @@
       {
         "id": "5e4e6ab915c6b911",
         "type": "leaf",
-        "dimension": 48.421052631578945,
+        "dimension": 48.42105263157894,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あわせる（合わせる）.md",
+            "file": "おどし（脅し）.md",
             "mode": "source"
           }
         },
@@ -20,12 +20,12 @@
       {
         "id": "88a4b5fbf72f8e33",
         "type": "leaf",
-        "dimension": 51.578947368421055,
+        "dimension": 51.57894736842106,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あわせる（合わせる）.md",
-            "mode": "source"
+            "file": "おどし（脅し）.md",
+            "mode": "preview"
           }
         },
         "group": "8e08b6291cf29d38"
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "寝る",
+                "query": "ばかり",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "あわせる（合わせる）.md"
+                "file": "おどし（脅し）.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "あわせる（合わせる）.md",
+                "file": "おどし（脅し）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,15 +153,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "あわせる（合わせる）.md",
-    "各種「時間」相關的日文說法.md",
-    "Assets/Pasted image 20201206000918.png",
-    "Assets/Pasted image 20201127120205.png",
-    "一日時間.md",
-    "ことわる（断る）.md",
-    "さっぱり.md",
     "Untitled 1.md",
-    "やりそこなう（遣り損なう）.md",
-    "あやまる（誤る）.md"
+    "にぎり（握り）.md",
+    "【Ｎ４文法】～ばかり.md",
+    "ばっかり.md",
+    "ばかり.md",
+    "かろうじて（辛うじて）.md",
+    "N3文法46「つもりだ」就當作、認為是.md",
+    "N4文法38「つもり」打算.md",
+    "ゆっくり.md",
+    "あわせる（合わせる）.md"
   ]
 }
