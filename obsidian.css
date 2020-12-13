@@ -456,7 +456,7 @@ ul ul {
 ul ul::before { left: -11px; top: 0; bottom: 0;
 }
 
-.workspace-split.mod-right-split.is-collaped {
+.workspace-split.mod-horizontal.mod-right-split.is-collapsed {
   margin-right: 0 !important;
 }
 

@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おどし（脅し）.md",
+            "file": "ちょうし（調子）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おどし（脅し）.md",
+            "file": "ちょうし（調子）.md",
             "mode": "preview"
           }
         },
@@ -71,10 +71,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ばかり",
+                "query": "しこむ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "おどし（脅し）.md"
+                "file": "ちょうし（調子）.md"
               }
             }
           },
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "おどし（脅し）.md",
+                "file": "ちょうし（調子）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,14 +155,14 @@
   },
   "lastOpenFiles": [
     "Untitled 1.md",
-    "にぎり（握り）.md",
-    "【Ｎ４文法】～ばかり.md",
-    "ばっかり.md",
-    "ばかり.md",
-    "かろうじて（辛うじて）.md",
-    "N3文法46「つもりだ」就當作、認為是.md",
-    "N4文法38「つもり」打算.md",
-    "ゆっくり.md",
-    "あわせる（合わせる）.md"
+    "「具合」vs「調子」vs「都合」.md",
+    "ぜつふちょう（絶不調）.md",
+    "【Ｎ０文法】～やがる.md",
+    "アラシ（荒らし）.md",
+    "みちびく（導く）.md",
+    "しこむ（仕込む）.md",
+    "つめる（詰める）.md",
+    "あんない（案内）.md",
+    "ほとんど（×殆ど／▽幾ど）.md"
   ]
 }
