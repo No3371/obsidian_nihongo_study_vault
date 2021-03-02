@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ちょうし（調子）.md",
+            "file": "もとめる（求める）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ちょうし（調子）.md",
+            "file": "もとめる（求める）.md",
             "mode": "preview"
           }
         },
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ちょうし（調子）.md"
+                "file": "もとめる（求める）.md"
               }
             }
           },
@@ -120,7 +119,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ちょうし（調子）.md",
+                "file": "もとめる（求める）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "もとめる（求める）.md",
+    "Untitled.md",
+    "かわく（乾く）.md",
     "Untitled 1.md",
-    "「具合」vs「調子」vs「都合」.md",
-    "ぜつふちょう（絶不調）.md",
-    "【Ｎ０文法】～やがる.md",
-    "アラシ（荒らし）.md",
-    "みちびく（導く）.md",
-    "しこむ（仕込む）.md",
-    "つめる（詰める）.md",
-    "あんない（案内）.md",
-    "ほとんど（×殆ど／▽幾ど）.md"
+    "【Ｎ２文法】～をきっかけにして／がきっかけで／がきっかけになって.md",
+    "いとぐち（糸口）.md",
+    "けいき（契機）.md",
+    "ふる（振る）.md",
+    "いきおい（勢い）.md",
+    "あんがい（案外）.md"
   ]
 }
