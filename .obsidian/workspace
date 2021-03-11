@@ -4,31 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5e4e6ab915c6b911",
+        "id": "88a4b5fbf72f8e33",
         "type": "leaf",
-        "dimension": 48.42105263157894,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "もとめる（求める）.md",
+            "file": "なやむ（悩む）.md",
             "mode": "source"
           }
         },
-        "group": "8e08b6291cf29d38"
+        "group": "6e21a132d5920c95"
       },
       {
-        "id": "88a4b5fbf72f8e33",
+        "id": "f6e7e2e444c87cc2",
         "type": "leaf",
-        "dimension": 51.57894736842106,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "もとめる（求める）.md",
-            "mode": "preview"
+            "file": "なやむ（悩む）.md",
+            "mode": "source"
           }
         },
-        "group": "8e08b6291cf29d38"
+        "group": "6e21a132d5920c95"
       }
     ],
     "direction": "vertical"
@@ -38,12 +36,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4af3181aed9f9c7",
+        "id": "126dab999fb77ead",
         "type": "tabs",
-        "dimension": 57.50242013552759,
         "children": [
           {
-            "id": "1fd7f11204f03523",
+            "id": "5e4e6ab915c6b911",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -55,7 +52,6 @@
       {
         "id": "5e92ba0f58b6489e",
         "type": "tabs",
-        "dimension": 42.49757986447241,
         "children": [
           {
             "id": "d2b6a0865d59b165",
@@ -109,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "もとめる（求める）.md"
+                "file": "なやむ（悩む）.md"
               }
             }
           },
@@ -137,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "もとめる（求める）.md",
+                "file": "なやむ（悩む）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "もとめる（求める）.md",
+    "なやむ（悩む）.md",
     "Untitled.md",
-    "かわく（乾く）.md",
-    "Untitled 1.md",
-    "【Ｎ２文法】～をきっかけにして／がきっかけで／がきっかけになって.md",
-    "いとぐち（糸口）.md",
-    "けいき（契機）.md",
-    "ふる（振る）.md",
-    "いきおい（勢い）.md",
-    "あんがい（案外）.md"
+    "でかた（出方）.md",
+    "たいする（対する）.md",
+    "追わず（おわず）.md",
+    "おう（追う／逐う）.md",
+    "ふうじる（封じる）.md",
+    "とざす（閉ざす／鎖す）.md",
+    "あく（明く／開く／空く）.md",
+    "閉じる（とじる）.md"
   ]
 }
