@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
+            "file": "ぜひ（是非）.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
+            "file": "ぜひ（是非）.md",
             "mode": "preview"
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【Ｎ３文法】～向けだ／向けに／向けの.md"
+                "file": "ぜひ（是非）.md"
               }
             }
           },
@@ -133,12 +133,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
+                "file": "ぜひ（是非）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -146,19 +146,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "せき（咳）.md",
-    "すべる（滑る／辷る）.md",
-    "たもつ（保つ）.md",
-    "しゅこう（趣向）.md",
-    "【Ｎ３文法】～なければならない／なくてはならない／ないといけない／ねばならぬ.md",
-    "くわしい（詳しい）.md",
-    "こまかい（細かい）.md",
-    "さける（避ける）.md",
-    "しょうじる（生じる）.md"
+    "ぜひ（是非）.md",
+    "しめつける（締め付ける）.md",
+    "そらす（逸らす）.md",
+    "はずれる（外れる）.md",
+    "にがす（逃がす）.md",
+    "おさえる（抑える／押さえる）.md",
+    "よせる（寄せる）.md",
+    "すごす（過ごす）.md",
+    "くる（繰る）.md",
+    "おくる（送る）.md"
   ]
 }
