@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なやむ（悩む）.md",
+            "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
             "mode": "source"
           }
         },
@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なやむ（悩む）.md",
-            "mode": "source"
+            "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
+            "mode": "preview"
           }
         },
         "group": "6e21a132d5920c95"
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511
+    "width": 459
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "なやむ（悩む）.md"
+                "file": "【Ｎ３文法】～向けだ／向けに／向けの.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "なやむ（悩む）.md",
+                "file": "【Ｎ３文法】～向けだ／向けに／向けの.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "なやむ（悩む）.md",
-    "Untitled.md",
-    "でかた（出方）.md",
-    "たいする（対する）.md",
-    "追わず（おわず）.md",
-    "おう（追う／逐う）.md",
-    "ふうじる（封じる）.md",
-    "とざす（閉ざす／鎖す）.md",
-    "あく（明く／開く／空く）.md",
-    "閉じる（とじる）.md"
+    "Untitled 1.md",
+    "せき（咳）.md",
+    "すべる（滑る／辷る）.md",
+    "たもつ（保つ）.md",
+    "しゅこう（趣向）.md",
+    "【Ｎ３文法】～なければならない／なくてはならない／ないといけない／ねばならぬ.md",
+    "くわしい（詳しい）.md",
+    "こまかい（細かい）.md",
+    "さける（避ける）.md",
+    "しょうじる（生じる）.md"
   ]
 }
