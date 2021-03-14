@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ぜひ（是非）.md",
+            "file": "やがる.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ぜひ（是非）.md",
+            "file": "やがる.md",
             "mode": "preview"
           }
         },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ぜひ（是非）.md"
+                "file": "やがる.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ぜひ（是非）.md",
+                "file": "やがる.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,18 +146,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "ぜひ（是非）.md",
-    "しめつける（締め付ける）.md",
-    "そらす（逸らす）.md",
-    "はずれる（外れる）.md",
-    "にがす（逃がす）.md",
-    "おさえる（抑える／押さえる）.md",
-    "よせる（寄せる）.md",
-    "すごす（過ごす）.md",
-    "くる（繰る）.md",
-    "おくる（送る）.md"
+    "やがる.md",
+    "にせ（偽／贋）.md",
+    "かんべん（勘弁）.md",
+    "すける（透ける）.md",
+    "【Ｎ２文法】～を通じて（つうじて）／を通して（とおして）.md",
+    "Untitled 1.md",
+    "かくかく（赫赫）.md",
+    "グロい.md",
+    "ふかい（不快）.md",
+    "まが（禍）.md"
   ]
 }
