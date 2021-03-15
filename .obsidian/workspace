@@ -6,11 +6,12 @@
       {
         "id": "88a4b5fbf72f8e33",
         "type": "leaf",
+        "dimension": 71.76831607211354,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "やがる.md",
+            "file": "にあう（担う／荷う）.md",
             "mode": "source"
           }
         },
@@ -19,10 +20,11 @@
       {
         "id": "f6e7e2e444c87cc2",
         "type": "leaf",
+        "dimension": 28.231683927886458,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "やがる.md",
+            "file": "にあう（担う／荷う）.md",
             "mode": "preview"
           }
         },
@@ -105,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "やがる.md"
+                "file": "にあう（担う／荷う）.md"
               }
             }
           },
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "やがる.md",
+                "file": "にあう（担う／荷う）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "やがる.md",
-    "にせ（偽／贋）.md",
-    "かんべん（勘弁）.md",
-    "すける（透ける）.md",
-    "【Ｎ２文法】～を通じて（つうじて）／を通して（とおして）.md",
-    "Untitled 1.md",
-    "かくかく（赫赫）.md",
-    "グロい.md",
-    "ふかい（不快）.md",
-    "まが（禍）.md"
+    "にあう（担う／荷う）.md",
+    "きっちり.md",
+    "みだれ（乱れ／紊れ）.md",
+    "はすう（端数）.md",
+    "ずれ.md",
+    "すきま（隙間／透き間）.md",
+    "すきま（隙間／透（き）間）.md",
+    "うつる（移る／遷る）.md",
+    "かわる（変わる）.md",
+    "すぎる（過ぎる）.md"
   ]
 }
