@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "くたびれる（草臥れる）.md",
+            "file": "もどる（戻る）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "くたびれる（草臥れる）.md",
-            "mode": "preview"
+            "file": "もどる（戻る）.md",
+            "mode": "source"
           }
         },
         "group": "6e21a132d5920c95"
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459
+    "width": 458
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "くたびれる（草臥れる）.md"
+                "file": "もどる（戻る）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "くたびれる（草臥れる）.md",
+                "file": "もどる（戻る）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "くたびれる（草臥れる）.md",
-    "つかれる（疲れる）.md",
+    "もどる（戻る）.md",
+    "あやうい（危うい）.md",
     "Untitled.md",
-    "おとろえる（衰える）.md",
-    "すてる（捨てる／棄てる／棄てる）.md",
-    "はき（破棄／破毀）.md",
-    "すてる（捨てる／棄てる）.md",
-    "にあう（担う／荷う）.md",
-    "きっちり.md",
-    "みだれ（乱れ／紊れ）.md"
+    "かえす（返す）.md",
+    "あやうい.md",
+    "あやうく（危うく）.md",
+    "かろうじて（辛うじて）.md",
+    "ありのまま（有りの儘）.md",
+    "N3文法64「どおり・とおり」按照、正如.md",
+    "つきさす（突き刺す）.md"
   ]
 }
