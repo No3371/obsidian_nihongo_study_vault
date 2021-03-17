@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "もどる（戻る）.md",
+            "file": "あう（会う／遭う／遇う／逢う）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "もどる（戻る）.md",
-            "mode": "source"
+            "file": "あう（会う／遭う／遇う／逢う）.md",
+            "mode": "preview"
           }
         },
         "group": "6e21a132d5920c95"
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "もどる（戻る）.md"
+                "file": "あう（会う／遭う／遇う／逢う）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "もどる（戻る）.md",
+                "file": "あう（会う／遭う／遇う／逢う）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "もどる（戻る）.md",
-    "あやうい（危うい）.md",
+    "あう（会う／遭う／遇う／逢う）.md",
+    "であう（出合う／出会う）.md",
+    "たいする（対する）.md",
+    "あわせる（合わせる）.md",
     "Untitled.md",
-    "かえす（返す）.md",
-    "あやうい.md",
-    "あやうく（危うく）.md",
-    "かろうじて（辛うじて）.md",
-    "ありのまま（有りの儘）.md",
-    "N3文法64「どおり・とおり」按照、正如.md",
-    "つきさす（突き刺す）.md"
+    "みつもる（見積もる）.md",
+    "けんとう（見当）.md",
+    "うつる（移る／遷る）うつる（移る／遷る）.md",
+    "もどる（戻る）.md",
+    "あやうい（危うい）.md"
   ]
 }
