@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あう（会う／遭う／遇う／逢う）.md",
+            "file": "あおる（煽る）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あう（会う／遭う／遇う／逢う）.md",
+            "file": "あおる（煽る）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "あう（会う／遭う／遇う／逢う）.md"
+                "file": "あおる（煽る）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "あう（会う／遭う／遇う／逢う）.md",
+                "file": "あおる（煽る）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "あう（会う／遭う／遇う／逢う）.md",
-    "であう（出合う／出会う）.md",
-    "たいする（対する）.md",
-    "あわせる（合わせる）.md",
+    "あおる（煽る）.md",
+    "いきおい（勢い）.md",
     "Untitled.md",
-    "みつもる（見積もる）.md",
-    "けんとう（見当）.md",
-    "うつる（移る／遷る）うつる（移る／遷る）.md",
-    "もどる（戻る）.md",
-    "あやうい（危うい）.md"
+    "ていそう（貞操）.md",
+    "みさお（操）.md",
+    "こだわり.md",
+    "こだわる.md",
+    "じらす（焦らす）.md",
+    "ほどほど（程程）.md",
+    "すぎる（過ぎる）.md"
   ]
 }
