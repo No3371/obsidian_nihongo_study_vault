@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あおる（煽る）.md",
+            "file": "しらべる（調べる）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "あおる（煽る）.md",
+            "file": "しらべる（調べる）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "あおる（煽る）.md"
+                "file": "しらべる（調べる）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "あおる（煽る）.md",
+                "file": "しらべる（調べる）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "しらべ（調べ）.md",
+    "いただける（頂ける／戴ける）.md",
+    "いただく（頂く／戴く）.md",
+    "はえる（映える／栄える）.md",
     "あおる（煽る）.md",
     "いきおい（勢い）.md",
-    "Untitled.md",
     "ていそう（貞操）.md",
     "みさお（操）.md",
-    "こだわり.md",
-    "こだわる.md",
-    "じらす（焦らす）.md",
-    "ほどほど（程程）.md",
-    "すぎる（過ぎる）.md"
+    "こだわり.md"
   ]
 }
