@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "しらべる（調べる）.md",
+            "file": "うまのり（馬乗り／馬騎り）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "しらべる（調べる）.md",
+            "file": "うまのり（馬乗り／馬騎り）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "しらべる（調べる）.md"
+                "file": "うまのり（馬乗り／馬騎り）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "しらべる（調べる）.md",
+                "file": "うまのり（馬乗り／馬騎り）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +153,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "ひっくりかえす（ひっくり返す）.md",
+    "くる（繰る）.md",
+    "おおきめ（大きめ）.md",
+    "やける（焼ける）.md",
+    "もえる（燃える）.md",
+    "しらべる（調べる）.md",
     "しらべ（調べ）.md",
     "いただける（頂ける／戴ける）.md",
-    "いただく（頂く／戴く）.md",
-    "はえる（映える／栄える）.md",
-    "あおる（煽る）.md",
-    "いきおい（勢い）.md",
-    "ていそう（貞操）.md",
-    "みさお（操）.md",
-    "こだわり.md"
+    "いただく（頂く／戴く）.md"
   ]
 }
