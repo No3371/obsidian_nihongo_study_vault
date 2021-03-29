@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "さんざん（散散）.md",
+            "file": "つげしらせる（告げ知らせる）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "さんざん（散散）.md",
+            "file": "つげしらせる（告げ知らせる）.md",
             "mode": "preview"
           }
         },
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460
+    "width": 466
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "さんざん（散散）.md"
+                "file": "つげしらせる（告げ知らせる）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "さんざん（散散）.md",
+                "file": "つげしらせる（告げ知らせる）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "さんざん（散散）.md",
-    "みじめ（惨め）.md",
-    "ところで.md",
-    "「ところ」の使い方.md",
+    "つげしらせる（告げ知らせる）.md",
+    "みっこく（密告）.md",
+    "たれこむ（垂れ込む）.md",
     "Untitled.md",
-    "いちじるしい（著しい）.md",
-    "あらい（粗い）.md",
-    "うちあわせ（打ち合わせ）.md",
-    "こまかい（細かい）.md",
-    "すきま（隙間／透き間）.md"
+    "つげる（告げる）.md",
+    "しらせる（知らせる／報せる）.md",
+    "密告.md",
+    "やんわり.md",
+    "おだやか（穏やか）.md",
+    "やわらかい（柔らかい／軟らかい）.md"
   ]
 }
