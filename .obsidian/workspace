@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "つげしらせる（告げ知らせる）.md",
+            "file": "おあずけ（御預け）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "つげしらせる（告げ知らせる）.md",
+            "file": "おあずけ（御預け）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "つげしらせる（告げ知らせる）.md"
+                "file": "おあずけ（御預け）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "つげしらせる（告げ知らせる）.md",
+                "file": "おあずけ（御預け）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "つげしらせる（告げ知らせる）.md",
-    "みっこく（密告）.md",
-    "たれこむ（垂れ込む）.md",
     "Untitled.md",
-    "つげる（告げる）.md",
-    "しらせる（知らせる／報せる）.md",
-    "密告.md",
-    "やんわり.md",
-    "おだやか（穏やか）.md",
-    "やわらかい（柔らかい／軟らかい）.md"
+    "しょっぱい（塩っぱい）.md",
+    "食う.png",
+    "アラシ（荒らし）.md",
+    "ねぼける（寝惚ける）.md",
+    "はたらく（働く）.md",
+    "ぼんやり.md",
+    "すばやい（素早い）.md",
+    "とっとと.md",
+    "がりがり.md"
   ]
 }
