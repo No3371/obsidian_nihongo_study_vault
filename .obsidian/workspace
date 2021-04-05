@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おあずけ（御預け）.md",
+            "file": "うつ（打つ）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おあずけ（御預け）.md",
-            "mode": "preview"
+            "file": "うつ（打つ）.md",
+            "mode": "source"
           }
         },
         "group": "6e21a132d5920c95"
@@ -69,8 +69,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "はたらか",
-                "matchingCase": false,
+                "query": "tag:#1［動タ五（四）］",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466
+    "width": 460
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "おあずけ（御預け）.md"
+                "file": "うつ（打つ）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "おあずけ（御預け）.md",
+                "file": "うつ（打つ）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "うつ（打つ）.md",
+    "aaa.md",
+    "# 打つ（うつ）の意味 - goo国語辞書.md",
+    "Authoring/#1.gif",
+    "たたく（叩く／敲く）.md",
     "Untitled.md",
-    "しょっぱい（塩っぱい）.md",
-    "食う.png",
-    "アラシ（荒らし）.md",
-    "ねぼける（寝惚ける）.md",
-    "はたらく（働く）.md",
-    "ぼんやり.md",
-    "すばやい（素早い）.md",
-    "とっとと.md",
-    "がりがり.md"
+    "とめる（止める／留める／停める）.md",
+    "「探す」と「探る」の違い.md",
+    "さがす（捜す／探す）.md",
+    "さぐる（探る）.md"
   ]
 }
