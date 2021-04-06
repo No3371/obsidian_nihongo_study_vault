@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おあずけ（御預け）.md",
+            "file": "うそ（嘘）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おあずけ（御預け）.md",
+            "file": "うそ（嘘）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "おあずけ（御預け）.md"
+                "file": "うそ（嘘）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "おあずけ（御預け）.md",
+                "file": "うそ（嘘）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "おあずけ（御預け）.md",
     "しょっぱい（塩っぱい）.md",
     "食う.png",
     "アラシ（荒らし）.md",
@@ -160,7 +161,6 @@
     "はたらく（働く）.md",
     "ぼんやり.md",
     "すばやい（素早い）.md",
-    "とっとと.md",
-    "がりがり.md"
+    "とっとと.md"
   ]
 }
