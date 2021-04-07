@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うつ（打つ）.md",
+            "file": "うそ（嘘）.md",
             "mode": "source"
           }
         },
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うつ（打つ）.md",
-            "mode": "source"
+            "file": "うそ（嘘）.md",
+            "mode": "preview"
           }
         },
         "group": "6e21a132d5920c95"
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "うつ（打つ）.md"
+                "file": "うそ（嘘）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "うつ（打つ）.md",
+                "file": "うそ（嘘）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,9 +158,14 @@
     "Authoring/#1.gif",
     "たたく（叩く／敲く）.md",
     "Untitled.md",
-    "とめる（止める／留める／停める）.md",
-    "「探す」と「探る」の違い.md",
-    "さがす（捜す／探す）.md",
-    "さぐる（探る）.md"
+    "おあずけ（御預け）.md",
+    "しょっぱい（塩っぱい）.md",
+    "食う.png",
+    "アラシ（荒らし）.md",
+    "ねぼける（寝惚ける）.md",
+    "はたらく（働く）.md",
+    "ぼんやり.md",
+    "すばやい（素早い）.md",
+    "とっとと.md"
   ]
 }
