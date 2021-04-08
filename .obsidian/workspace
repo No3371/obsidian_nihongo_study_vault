@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ひとすじ（一筋／一条）.md",
+            "file": "ゆきとどく（行き届く）.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ひとすじ（一筋／一条）.md",
+            "file": "ゆきとどく（行き届く）.md",
             "mode": "preview"
           }
         },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ひとすじ（一筋／一条）.md"
+                "file": "ゆきとどく（行き届く）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ひとすじ（一筋／一条）.md",
+                "file": "ゆきとどく（行き届く）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88a4b5fbf72f8e33",
+  "active": "f6e7e2e444c87cc2",
   "lastOpenFiles": [
-    "うつ（打つ）.md",
-    "うそ（嘘）.md",
-    "aaa.md",
-    "# 打つ（うつ）の意味 - goo国語辞書.md",
-    "Authoring/#1.gif",
-    "たたく（叩く／敲く）.md",
+    "ゆきとどく（行き届く）.md",
+    "すみずみ（隅隅）.md",
+    "あらゆる.md",
+    "かぎり.md",
+    "かぎり（限り）.md",
     "Untitled.md",
-    "おあずけ（御預け）.md",
-    "しょっぱい（塩っぱい）.md",
-    "食う.png"
+    "すみずみ.md",
+    "うっかり.md",
+    "まがぬける（間が抜ける）.md",
+    "ぼんやり.md"
   ]
 }
