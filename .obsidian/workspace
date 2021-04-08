@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うそ（嘘）.md",
+            "file": "ひとすじ（一筋／一条）.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うそ（嘘）.md",
+            "file": "ひとすじ（一筋／一条）.md",
             "mode": "preview"
           }
         },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "うそ（嘘）.md"
+                "file": "ひとすじ（一筋／一条）.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "うそ（嘘）.md",
+                "file": "ひとすじ（一筋／一条）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
