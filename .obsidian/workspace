@@ -7,7 +7,6 @@
         "id": "88a4b5fbf72f8e33",
         "type": "leaf",
         "dimension": 71.76831607211354,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -139,6 +138,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +152,10 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "88a4b5fbf72f8e33",
   "lastOpenFiles": [
     "うつ（打つ）.md",
+    "うそ（嘘）.md",
     "aaa.md",
     "# 打つ（うつ）の意味 - goo国語辞書.md",
     "Authoring/#1.gif",
@@ -160,12 +163,6 @@
     "Untitled.md",
     "おあずけ（御預け）.md",
     "しょっぱい（塩っぱい）.md",
-    "食う.png",
-    "アラシ（荒らし）.md",
-    "ねぼける（寝惚ける）.md",
-    "はたらく（働く）.md",
-    "ぼんやり.md",
-    "すばやい（素早い）.md",
-    "とっとと.md"
+    "食う.png"
   ]
 }
