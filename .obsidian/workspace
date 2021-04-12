@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ゆきとどく（行き届く）.md",
+            "file": "うろつく（彷徨く）.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ゆきとどく（行き届く）.md",
+            "file": "うろつく（彷徨く）.md",
             "mode": "preview"
           }
         },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゆきとどく（行き届く）.md"
+                "file": "うろつく（彷徨く）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ゆきとどく（行き届く）.md",
+                "file": "うろつく（彷徨く）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6e7e2e444c87cc2",
+  "active": "88a4b5fbf72f8e33",
   "lastOpenFiles": [
-    "ゆきとどく（行き届く）.md",
-    "すみずみ（隅隅）.md",
-    "あらゆる.md",
-    "かぎり.md",
-    "かぎり（限り）.md",
+    "うろつく（彷徨く）.md",
     "Untitled.md",
-    "すみずみ.md",
-    "うっかり.md",
-    "まがぬける（間が抜ける）.md",
-    "ぼんやり.md"
+    "あるきまわる（歩き回る）.md",
+    "ほうしん（放心）.md",
+    "うばう（奪う）.md",
+    "いや（否）.md",
+    "ひてい（否定）.md",
+    "いや（嫌／厭）.md",
+    "Untitled 1.md",
+    "おしむ（惜しむ）.md"
   ]
 }
