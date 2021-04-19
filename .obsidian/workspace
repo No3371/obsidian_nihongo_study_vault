@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うろつく（彷徨く）.md",
+            "file": "うやまう（敬う）.md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うろつく（彷徨く）.md",
-            "mode": "preview"
+            "file": "うやまう（敬う）.md",
+            "mode": "source"
           }
         },
         "group": "6e21a132d5920c95"
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "うろつく（彷徨く）.md"
+                "file": "うやまう（敬う）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "うろつく（彷徨く）.md",
+                "file": "うやまう（敬う）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,15 +154,15 @@
   },
   "active": "88a4b5fbf72f8e33",
   "lastOpenFiles": [
-    "うろつく（彷徨く）.md",
+    "うやまう（敬う）.md",
+    "つくす（尽くす）.md",
     "Untitled.md",
+    "たかぶる（高ぶる）.md",
+    "げきこう（激昂／激高）.md",
+    "ひどい（酷い）.md",
+    "もうす（申す）.md",
+    "うろつく（彷徨く）.md",
     "あるきまわる（歩き回る）.md",
-    "ほうしん（放心）.md",
-    "うばう（奪う）.md",
-    "いや（否）.md",
-    "ひてい（否定）.md",
-    "いや（嫌／厭）.md",
-    "Untitled 1.md",
-    "おしむ（惜しむ）.md"
+    "ほうしん（放心）.md"
   ]
 }
