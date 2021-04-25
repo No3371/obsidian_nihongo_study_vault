@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なおさら（尚更）.md",
+            "file": "ことなる（異なる）.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なおさら（尚更）.md",
+            "file": "ことなる（異なる）.md",
             "mode": "preview"
           }
         },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "なおさら（尚更）.md"
+                "file": "ことなる（異なる）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "なおさら（尚更）.md",
+                "file": "ことなる（異なる）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88a4b5fbf72f8e33",
+  "active": "f6e7e2e444c87cc2",
   "lastOpenFiles": [
-    "なおさら（尚更）.md",
-    "いっそう（一層）.md",
-    "すすむ（進む）.md",
+    "ことなる（異なる）.md",
+    "けなり（異なり）.md",
+    "け（異）.md",
+    "まさる（勝る）.md",
+    "ぞんがい（存外）.md",
     "Untitled.md",
-    "ひょっと.md",
-    "ふい（不意）.md",
-    "ちらかる（散らかる）.md",
-    "ひろがる（広がる／拡がる）.md",
-    "たたむ（畳む）.md",
-    "はば（幅／巾）.md"
+    "やましい（疚しい／疾しい）.md",
+    "やらかす（遣らかす）.md",
+    "あやまち（過ち／誤ち）.md",
+    "あやまり（誤り／謬り）.md"
   ]
 }
