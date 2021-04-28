@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "88a4b5fbf72f8e33",
+        "id": "b7177efcdb60cff2",
         "type": "leaf",
-        "dimension": 71.76831607211354,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,12 +13,11 @@
             "mode": "source"
           }
         },
-        "group": "6e21a132d5920c95"
+        "group": "7a0bcae1a094bc92"
       },
       {
-        "id": "f6e7e2e444c87cc2",
+        "id": "4461a571c9c69502",
         "type": "leaf",
-        "dimension": 28.231683927886458,
         "state": {
           "type": "markdown",
           "state": {
@@ -27,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "6e21a132d5920c95"
+        "group": "7a0bcae1a094bc92"
       }
     ],
     "direction": "vertical"
