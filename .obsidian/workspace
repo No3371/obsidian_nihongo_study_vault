@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ことなる（異なる）.md",
+            "file": "うらなう（占う）.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ことなる（異なる）.md",
+            "file": "うらなう（占う）.md",
             "mode": "preview"
           }
         },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ことなる（異なる）.md"
+                "file": "うらなう（占う）.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ことなる（異なる）.md",
+                "file": "うらなう（占う）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6e7e2e444c87cc2",
+  "active": "88a4b5fbf72f8e33",
   "lastOpenFiles": [
-    "ことなる（異なる）.md",
-    "けなり（異なり）.md",
-    "け（異）.md",
-    "まさる（勝る）.md",
-    "ぞんがい（存外）.md",
+    "うらなう（占う）.md",
     "Untitled.md",
-    "やましい（疚しい／疾しい）.md",
-    "やらかす（遣らかす）.md",
-    "あやまち（過ち／誤ち）.md",
-    "あやまり（誤り／謬り）.md"
+    "かせぐ（稼ぐ）.md",
+    "たかめる（高める）.md",
+    "もとめる（求める）.md",
+    "はたらく（働く）.md",
+    "まよいこむ（迷い込む）.md",
+    "まよう（迷う／紕う）.md",
+    "こる（凝る）.md",
+    "へんぴ（辺鄙）.md"
   ]
 }
