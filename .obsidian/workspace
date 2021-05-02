@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うらなう（占う）.md",
+            "file": "じきに（直に）.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "うらなう（占う）.md",
+            "file": "じきに（直に）.md",
             "mode": "preview"
           }
         },
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460
+    "width": 475
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "うらなう（占う）.md"
+                "file": "じきに（直に）.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "うらなう（占う）.md",
+                "file": "じきに（直に）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "88a4b5fbf72f8e33",
+  "active": "b7177efcdb60cff2",
   "lastOpenFiles": [
-    "うらなう（占う）.md",
-    "Untitled.md",
-    "かせぐ（稼ぐ）.md",
-    "たかめる（高める）.md",
-    "もとめる（求める）.md",
+    "じきに（直に）.md",
+    "さっそく（早速）.md",
+    "つとめ（勤め／務め）.md",
     "はたらく（働く）.md",
-    "まよいこむ（迷い込む）.md",
-    "まよう（迷う／紕う）.md",
-    "こる（凝る）.md",
-    "へんぴ（辺鄙）.md"
+    "たりる（足りる）.md",
+    "かふそく（過不足）.md",
+    "おくさん（奥さん）.md",
+    "かんぺき（完璧）.md",
+    "ばっちり.md",
+    "まったく（全く）.md"
   ]
 }
