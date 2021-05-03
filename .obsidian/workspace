@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "てきびしい（手厳しい）.md",
+            "file": "みえみえ（見え見え）.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "てきびしい（手厳しい）.md",
-            "mode": "source"
+            "file": "みえみえ（見え見え）.md",
+            "mode": "preview"
           }
         },
         "group": "7a0bcae1a094bc92"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "てきびしい（手厳しい）.md"
+                "file": "みえみえ（見え見え）.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "てきびしい（手厳しい）.md",
+                "file": "みえみえ（見え見え）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "b7177efcdb60cff2",
   "lastOpenFiles": [
-    "てきびしい（手厳しい）.md",
-    "しんらつ（辛辣）.md",
-    "きわめる（極める）.md",
-    "うまのり（馬乗り／馬騎り）.md",
-    "おそれおおい（恐れ多い／畏れ多い）.md",
-    "ありがたい（有り難い）.md",
-    "おそれおおい（恐れ多い）.md",
-    "もったいない（勿体無い）.md",
-    "かすめとる（掠め取る）.md",
-    "かすめる（掠める）.md"
+    "みえみえ（見え見え）.md",
+    "さげる（下げる）.md",
+    "はげる（禿げる）.md",
+    "とりわける（取り分ける）.md",
+    "あずける（預ける）.md",
+    "ゆだねる（委ねる）.md",
+    "あずけ（預け）.md",
+    "おあずけ（御預け）.md",
+    "おく（置く）.md",
+    "わき（脇）.md"
   ]
 }
