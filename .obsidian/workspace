@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "じきに（直に）.md",
+            "file": "てきびしい（手厳しい）.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "じきに（直に）.md",
-            "mode": "preview"
+            "file": "てきびしい（手厳しい）.md",
+            "mode": "source"
           }
         },
         "group": "7a0bcae1a094bc92"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "じきに（直に）.md"
+                "file": "てきびしい（手厳しい）.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "じきに（直に）.md",
+                "file": "てきびしい（手厳しい）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,20 +147,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b7177efcdb60cff2",
   "lastOpenFiles": [
-    "じきに（直に）.md",
-    "さっそく（早速）.md",
-    "つとめ（勤め／務め）.md",
-    "はたらく（働く）.md",
-    "たりる（足りる）.md",
-    "かふそく（過不足）.md",
-    "おくさん（奥さん）.md",
-    "かんぺき（完璧）.md",
-    "ばっちり.md",
-    "まったく（全く）.md"
+    "てきびしい（手厳しい）.md",
+    "しんらつ（辛辣）.md",
+    "きわめる（極める）.md",
+    "うまのり（馬乗り／馬騎り）.md",
+    "おそれおおい（恐れ多い／畏れ多い）.md",
+    "ありがたい（有り難い）.md",
+    "おそれおおい（恐れ多い）.md",
+    "もったいない（勿体無い）.md",
+    "かすめとる（掠め取る）.md",
+    "かすめる（掠める）.md"
   ]
 }
