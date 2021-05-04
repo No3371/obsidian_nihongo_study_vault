@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "みえみえ（見え見え）.md",
+            "file": "助詞＋いい的各種用法.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "みえみえ（見え見え）.md",
+            "file": "助詞＋いい的各種用法.md",
             "mode": "preview"
           }
         },
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475
+    "width": 473
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "みえみえ（見え見え）.md"
+                "file": "助詞＋いい的各種用法.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "みえみえ（見え見え）.md",
+                "file": "助詞＋いい的各種用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +151,15 @@
   },
   "active": "b7177efcdb60cff2",
   "lastOpenFiles": [
-    "みえみえ（見え見え）.md",
-    "さげる（下げる）.md",
-    "はげる（禿げる）.md",
-    "とりわける（取り分ける）.md",
-    "あずける（預ける）.md",
-    "ゆだねる（委ねる）.md",
-    "あずけ（預け）.md",
-    "おあずけ（御預け）.md",
-    "おく（置く）.md",
-    "わき（脇）.md"
+    "Untitled.md",
+    "まく（巻く／捲く）.md",
+    "さかまく（逆巻く）.md",
+    "まく（巻く）.md",
+    "まくれる（捲れる）.md",
+    "ぜつめつ（絶滅）.md",
+    "たえる（絶える）.md",
+    "しばる（縛る）.md",
+    "よっぽど（余っ程）.md",
+    "まち（町／街）.md"
   ]
 }
