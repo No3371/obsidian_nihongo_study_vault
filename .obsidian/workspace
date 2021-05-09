@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b7177efcdb60cff2",
+        "id": "eb5352eddf268077",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助詞＋いい的各種用法.md",
+            "file": "なまなましい（生生しい）.md",
             "mode": "source"
           }
         },
-        "group": "7a0bcae1a094bc92"
+        "group": "242d586f113af304"
       },
       {
-        "id": "4461a571c9c69502",
+        "id": "58ba14f871024fe9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助詞＋いい的各種用法.md",
+            "file": "なまなましい（生生しい）.md",
             "mode": "preview"
           }
         },
-        "group": "7a0bcae1a094bc92"
+        "group": "242d586f113af304"
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "助詞＋いい的各種用法.md"
+                "file": "なまなましい（生生しい）.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "助詞＋いい的各種用法.md",
+                "file": "なまなましい（生生しい）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b7177efcdb60cff2",
+  "active": "eb5352eddf268077",
   "lastOpenFiles": [
-    "Untitled.md",
-    "まく（巻く／捲く）.md",
-    "さかまく（逆巻く）.md",
-    "まく（巻く）.md",
-    "まくれる（捲れる）.md",
-    "ぜつめつ（絶滅）.md",
-    "たえる（絶える）.md",
-    "しばる（縛る）.md",
-    "よっぽど（余っ程）.md",
-    "まち（町／街）.md"
+    "なまなましい（生生しい）.md",
+    "とろとろ.md",
+    "やわらかい（柔らかい／軟らかい）.md",
+    "とける（溶ける／解ける／融ける）.md",
+    "ぴくぴく.md",
+    "ふるえる（震える）.md",
+    "こく.md",
+    "すます（済ます）.md",
+    "すませる（済ませる）.md",
+    "おおまか（大まか）.md"
   ]
 }
