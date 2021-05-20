@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なまなましい（生生しい）.md",
+            "file": "おまいう、おまおれ.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "なまなましい（生生しい）.md",
+            "file": "おまいう、おまおれ.md",
             "mode": "preview"
           }
         },
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473
+    "width": 457
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "なまなましい（生生しい）.md"
+                "file": "おまいう、おまおれ.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "なまなましい（生生しい）.md",
+                "file": "おまいう、おまおれ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,19 +147,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "eb5352eddf268077",
   "lastOpenFiles": [
-    "なまなましい（生生しい）.md",
-    "とろとろ.md",
-    "やわらかい（柔らかい／軟らかい）.md",
-    "とける（溶ける／解ける／融ける）.md",
-    "ぴくぴく.md",
-    "ふるえる（震える）.md",
-    "こく.md",
-    "すます（済ます）.md",
-    "すませる（済ませる）.md",
-    "おおまか（大まか）.md"
+    "おまいう、おまおれ.md",
+    "とおざかる（遠ざかる）.md",
+    "ねむれぬ（眠れぬ）.md",
+    "きゆう（杞憂）.md",
+    "ひとがら（人柄）.md",
+    "すぐれる（優れる／勝れる）.md",
+    "なので.md",
+    "かいほう（介抱）.md",
+    "めんどう（面倒）.md",
+    "かいご（かだく）.md"
   ]
 }
