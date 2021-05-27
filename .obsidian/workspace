@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おまいう、おまおれ.md",
+            "file": "ちらほら.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "おまいう、おまおれ.md",
+            "file": "ちらほら.md",
             "mode": "preview"
           }
         },
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457
+    "width": 472
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "おまいう、おまおれ.md"
+                "file": "ちらほら.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "おまいう、おまおれ.md",
+                "file": "ちらほら.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "eb5352eddf268077",
   "lastOpenFiles": [
-    "おまいう、おまおれ.md",
-    "とおざかる（遠ざかる）.md",
-    "ねむれぬ（眠れぬ）.md",
-    "きゆう（杞憂）.md",
-    "ひとがら（人柄）.md",
-    "すぐれる（優れる／勝れる）.md",
-    "なので.md",
-    "かいほう（介抱）.md",
-    "めんどう（面倒）.md",
-    "かいご（かだく）.md"
+    "ちらほら.md",
+    "ちらりほらり.md",
+    "すばやい（素早い）.md",
+    "まばら（疎ら／疏ら）.md",
+    "まばら（疎ら）.md",
+    "さんけん（散見）.md",
+    "Untitled.md",
+    "つっこむ（突っ込む）.md",
+    "ふかい（深い）.md",
+    "さいかい（最下位）.md"
   ]
 }
