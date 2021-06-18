@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ちらほら.md",
+            "file": "きどる（気取る）.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ちらほら.md",
+            "file": "きどる（気取る）.md",
             "mode": "preview"
           }
         },
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1［動タ五（四）］",
+                "query": "次第",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472
+    "width": 390
   },
   "right": {
     "id": "46a097d81ac39ddf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ちらほら.md"
+                "file": "きどる（気取る）.md"
               }
             }
           },
@@ -132,13 +132,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ちらほら.md",
+                "file": "きどる（気取る）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -147,20 +147,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "eb5352eddf268077",
   "lastOpenFiles": [
-    "ちらほら.md",
-    "ちらりほらり.md",
-    "すばやい（素早い）.md",
-    "まばら（疎ら／疏ら）.md",
-    "まばら（疎ら）.md",
-    "さんけん（散見）.md",
+    "きどる（気取る）.md",
+    "もったい（勿体／物体）.md",
+    "おもおもしい（重々しい）.md",
     "Untitled.md",
-    "つっこむ（突っ込む）.md",
-    "ふかい（深い）.md",
-    "さいかい（最下位）.md"
+    "すましがお（澄まし顔）.md",
+    "しにぎわ（死に際）.md",
+    "だつ（立つ）.md",
+    "たつ（立つ）.md",
+    "たてる（立てる）.md",
+    "おこす（起こす）.md"
   ]
 }
